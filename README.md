@@ -16,8 +16,6 @@ If you use apt (ubuntu and friends), run `sudo apt install sassc libcanberra-gtk
 ## Run install script
 Run `sudo ./install.sh`
 
-The rendering might take a while. Grab a tea and watch a youtube video before coming back.
-
 ## Update your gnome tweaks setting
 Now you just need to update your settings on gnome tweaks. If you haven't installed gnome tweaks yet, install it from your package manager.
 
