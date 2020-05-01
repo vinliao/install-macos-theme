@@ -14,9 +14,9 @@ cd McMojave-circle
 cd ..
 
 # install themes
-git clone https://github.com/vinceliuice/Mojave-gtk-theme.git
+git clone https://github.com/vinliao/Mojave-gtk-theme.git
 cd Mojave-gtk-theme
-./install.sh
+./install.sh -d ~/.themes
 cd ..
 
 # Cleanup
