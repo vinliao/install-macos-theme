@@ -9,9 +9,9 @@ Not only installing, you can use this to update the theme to the latest one. Usu
 
 # Steps
 ## Install dependencies
-If you use dnf (fedora, rhel), run `dnf install sassc optipng inkscape`
+If you use dnf (fedora, rhel), run `dnf install sassc`
 
-If you use apt (ubuntu and friends), run `sudo apt install sassc optipng inkscape libcanberra-gtk-module libglib2.0-dev`
+If you use apt (ubuntu and friends), run `sudo apt install sassc libcanberra-gtk-module libglib2.0-dev`
 
 ## Run install script
 Run `sudo ./install.sh`
