@@ -1,12 +1,5 @@
 #!/bin/bash
 
-# check if root or not
-if [ `id -u` -ne 0 ]
-then
-  echo "Please run as root."
-  exit 1
-fi
-
 # install icon
 git clone https://github.com/vinceliuice/McMojave-circle.git
 cd McMojave-circle
@@ -18,9 +11,6 @@ git clone https://github.com/vinliao/Mojave-gtk-theme.git
 cd Mojave-gtk-theme
 ./install.sh -d ~/.themes
 cd ..
-
-# Cleanup
-rm -rf McMojave-circle Mojave-gtk-theme
 
 echo
 echo "The themes and icons are already installed on your machine."
