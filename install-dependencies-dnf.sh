@@ -1,0 +1,1 @@
+sudo dnf install sassc optipng inkscape libcanberra-gtk3 glib2-devel
