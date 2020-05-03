@@ -14,7 +14,7 @@ If you use dnf (fedora, rhel), run `dnf install sassc`
 If you use apt (ubuntu and friends), run `sudo apt install sassc libcanberra-gtk-module libglib2.0-dev`
 
 ## Run install script
-Clone the repo and run `sudo ./install.sh`
+Clone the repo and run `./install.sh`
 
 ## Update your gnome tweaks setting
 Now you just need to update your settings on gnome tweaks. If you haven't installed gnome tweaks yet, install it from your package manager.
