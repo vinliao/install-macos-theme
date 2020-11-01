@@ -1,9 +1,9 @@
 # Hey 👋
-This is a script for installing MacOS (Mojave) themes on Gnome desktop environment.
+This is a script for installing MacOS GTK theme, shell, and icons on Gnome desktop environment.
 
 It's based on these projects:
-- https://github.com/vinceliuice/Mojave-gtk-theme
-- https://github.com/vinceliuice/McMojave-circle
+- https://github.com/vinceliuice/WhiteSur-gtk-theme
+- https://github.com/vinceliuice/WhiteSur-icon-theme
 
 Not only installing, you can use this to update the theme to the latest one. Usually there will be a bug with the theme/icons when there's a new version of Gnome release, and updating the theme can be as simple as running the script.
 
