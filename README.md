@@ -8,10 +8,11 @@ It's based on these projects:
 Not only installing, you can use this to update the theme to the latest one. Usually there will be a bug with the theme/icons when there's a new version of Gnome release, and updating the theme can be as simple as running the script.
 
 Some screenshots:
-https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/one.png
-https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/two.png 
-https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/three.png 
-https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/four.png 
+![one](https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/one.png)
+![two](https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/two.png)
+![three](https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/three.png)
+![four](https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/four.png)
+
 
 # Steps
 ## Install dependencies
