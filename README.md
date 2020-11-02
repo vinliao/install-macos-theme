@@ -14,16 +14,39 @@ Some screenshots:
 ![four](https://raw.githubusercontent.com/vinliao/install-macos-theme/master/img/four.png)
 
 
-# Steps
-## Install dependencies
-If you use dnf (fedora, rhel), run `dnf install sassc`
+## Steps
+### Installation Depends requirement
+- sassc.
+- optipng.
+- inkscape.
+- libglib2.0-dev. `ubuntu 18.04` `debian 10.03` `linux mint 19`
+- libxml2-utils. `ubuntu 18.04` `debian 10.03` `linux mint 19`
+- glib2-devel. `Fedora` `Redhat`
 
-If you use apt (ubuntu and friends), run `sudo apt install sassc libcanberra-gtk-module libglib2.0-dev`
+Fedora/RedHat distros:
 
-## Run install script
+    dnf install sassc optipng inkscape glib2-devel
+
+Ubuntu/Mint/Debian distros:
+
+    sudo apt install sassc optipng inkscape
+
+Debian 10:
+
+    sudo apt install sassc optipng inkscape libcanberra-gtk-module libglib2.0-dev libxml2-utils
+
+ArchLinux:
+
+    pacman -S sassc optipng inkscape
+
+
+### Run install script
 Clone the repo and run `./install.sh`
 
-## Update your gnome tweaks setting
+### Update your gnome tweaks setting
 Now you just need to update your settings on gnome tweaks. If you haven't installed gnome tweaks yet, install it from your package manager.
 
 Go to Appearace then change Application, Icon, and Shell.
+
+## And oh!
+I just want to thank [@vinceluice](https://github.com/vinceliuice) for creating this beautiful theme. It's gorgeous!
